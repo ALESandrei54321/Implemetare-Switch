@@ -1,9 +1,4 @@
-1 2 3
-
 # TEMA RETELE LOCALE - IMPLEMANTAREA SWITCH
-
-    - Student: Ciorgan Andrei-Florian
-    - Grupa: 332CD
 
 ----------Descriere----------
 
